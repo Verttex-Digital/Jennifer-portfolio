@@ -1,10 +1,10 @@
-import Navbar from './components/Navbar';
-import Hero from './components/Hero';
-import Portfolio from './components/Portfolio';
-import About from './components/About';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
-import WhatsappButton from './components/WhatsappButton';
+import Navbar from './components/Navbar/Navbar';
+import Hero from './components/Hero/Hero';
+import Portfolio from './components/Portfolio/Portfolio';
+import About from './components/AboutUs/About';
+import Contact from './components/ContactForm/Contact';
+import Footer from './components/Footer/Footer';
+import WhatsappButton from './components/WhatsappButton/WhatsappButton';
 
 function App() {
   return (
